@@ -1,8 +1,6 @@
 runtime: python38
 
 
-runtime: python38
-
 handlers:
 
   - url: /static
